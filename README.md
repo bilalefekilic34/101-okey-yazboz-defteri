@@ -1,6 +1,6 @@
 # untitled1
 
-A new Flutter project.
+101 Okey için yazboz defteri uygulaması.
 
 ## Getting Started
 
